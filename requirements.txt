@@ -1,0 +1,4 @@
+streamlit==1.52.1
+aiohttp==3.13.2
+beautifulsoup4==4.14.3
+markdownify==1.2.2
